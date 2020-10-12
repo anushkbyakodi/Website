@@ -76,3 +76,16 @@ body {
   
 
 }
+table, th, td {
+  border:  .5px solid #c3073f;
+  text-align: center;
+  padding: 1px;
+  font-size: 15px;
+  color: grey;
+  margin: 20px 0 50px 150px;
+  border-radius: 8px;
+}
+.image-n {
+  width: auto;
+  height: auto;
+}
